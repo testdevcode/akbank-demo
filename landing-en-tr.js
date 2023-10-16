@@ -179,7 +179,7 @@ let html_string_landing = `<div class="tureng-index-content tureng-index-content
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
     <div class="guest-video-container" onclick="sliderPlayClicked(this, 0)">
-        <img src="http://localhost:8080/asset/content/guest/17262.jpg" style="width: 100%;">
+        <img src="https://landing.tureng.com/asset/content/guest/674617.jpg" style="width: 100%;">
         <span class="glyphicon glyphicon-play slider-play-span"></span>
         <iframe class="slider-iframe" style="display: none" allow="autoplay" allowfullscreen></iframe>
     </div>
@@ -191,7 +191,7 @@ let html_string_landing = `<div class="tureng-index-content tureng-index-content
     </a>
 </div><div class="swiper-slide">
     <div class="guest-video-container" onclick="sliderPlayClicked(this, 1)">
-        <img src="http://localhost:8080/asset/content/guest/12910.jpg" style="width: 100%;">
+        <img src="https://landing.tureng.com/asset/content/guest/674617.jpg" style="width: 100%;">
         <span class="glyphicon glyphicon-play slider-play-span"></span>
         <iframe class="slider-iframe" style="display: none" allow="autoplay" allowfullscreen></iframe>
     </div>
@@ -203,7 +203,7 @@ let html_string_landing = `<div class="tureng-index-content tureng-index-content
     </a>
 </div><div class="swiper-slide">
     <div class="guest-video-container" onclick="sliderPlayClicked(this, 2)">
-        <img src="http://localhost:8080/asset/content/guest/12909.jpg" style="width: 100%;">
+        <img src="https://landing.tureng.com/asset/content/guest/674617.jpg" style="width: 100%;">
         <span class="glyphicon glyphicon-play slider-play-span"></span>
         <iframe class="slider-iframe" style="display: none" allow="autoplay" allowfullscreen></iframe>
     </div>
@@ -1001,7 +1001,7 @@ $("#main-div-landing").append(html_string_landing);
 
 let html_slider_guest_component = `<div class="swiper-slide">
     <div class="guest-video-container" onclick="sliderPlayClicked(this, REPLACE_INDEX)">
-        <img src="http://localhost:8080/asset/content/guest/REPLACE_THUMB_ID.jpg" style="width: 100%;">
+        <img src="https://landing.tureng.com/asset/content/guest/674617.jpg" style="width: 100%;">
         <span class="glyphicon glyphicon-play slider-play-span"></span>
         <iframe class="slider-iframe" style="display: none" allow="autoplay" allowfullscreen></iframe>
     </div>
