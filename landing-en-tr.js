@@ -1765,7 +1765,7 @@ if (todays_word_item !== null) {
     }
 }
 
-let idiom_list_landing = [{"img":"http://localhost:8080/asset/content/idiom/20573.jpg","id":"20573","href":"javascript:void(0)"}];
+let idiom_list_landing = [{"img":"720akbank.jpg","id":"20573","href":"javascript:void(0)"}];
 let selected_idiom = idiom_list_landing[getRandomIndex(idiom_list_landing.length)];
 $("#idiom-img-id").attr("src", selected_idiom.img);
 $("#idiom-a-id").attr("href", selected_idiom.href);
