@@ -1659,7 +1659,7 @@ nextQuizClicked('voc');
 //follow_us.className = "follow-us-img";
 //$(".tureng-index-col-right").append(follow_us);
 
-let slider_guest_list = [{"id":"17262","video":"KrdRXrdGYIA","ig":"americaliturk"},{"id":"12910","video":"KrdRXrdGYIA","ig":"americaliturk"},{"id":"12909","video":"KrdRXrdGYIA","ig":"americaliturk"}];
+let slider_guest_list = [{"id":"17262","video":"lttWza5YqIk","ig":"americaliturk"},{"id":"12910","video":"lttWza5YqIk","ig":"americaliturk"},{"id":"12909","video":"lttWza5YqIk","ig":"americaliturk"}];
 let slider_guest_list_extra = [];//GUEST VIDEOS TO BE USED LIST HERE;
 
 async function activateSlider(){
