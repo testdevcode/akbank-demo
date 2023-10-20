@@ -149,7 +149,7 @@ let html_string_landing = `<div class="tureng-index-content tureng-index-content
                     </span>
                 </div>
                 <div class="idiom-container">
-                    <a id="idiom-a-id" class="idiom-a-class" href="">
+                    <a id="idiom-a-id" class="idiom-a-class" href="" target="_blank">
                         <img id="idiom-img-id" src=""
                              style="width: 100%; border-radius: 10px">
                     </a>
